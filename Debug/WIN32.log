@@ -1,0 +1,7 @@
+﻿cl : linha de comando  warning D9035: opção 'Gm' foi preterida e será removida em uma versão futura
+  example.c
+C:\Users\vinih\OneDrive - Grupo Marista\Desktop\SOCPS\FreeRTOS_PUCPR\FreeRTOS\Demo\Semaforo Binario\example.c(223,1): warning C4702: código inacessível
+C:\Users\vinih\OneDrive - Grupo Marista\Desktop\SOCPS\FreeRTOS_PUCPR\FreeRTOS\Demo\Semaforo Binario\example.c(301,1): warning C4702: código inacessível
+C:\Users\vinih\OneDrive - Grupo Marista\Desktop\SOCPS\FreeRTOS_PUCPR\FreeRTOS\Demo\Semaforo Binario\example.c(61,1): warning C4702: código inacessível
+C:\Users\vinih\OneDrive - Grupo Marista\Desktop\SOCPS\FreeRTOS_PUCPR\FreeRTOS\Demo\Semaforo Binario\example.c(143,1): warning C4702: código inacessível
+  WIN32.vcxproj -> C:\Users\vinih\OneDrive - Grupo Marista\Desktop\SOCPS\FreeRTOS_PUCPR\FreeRTOS\Demo\Semaforo Binario\Debug\Exemplo_18.exe
